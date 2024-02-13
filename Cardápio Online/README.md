@@ -1,1 +1,5 @@
-# Intensivo-Javascript
+# CARDÁPIO ONLINE
+
+<div align="center">
+  <img width="80%" src="project-banner.png">
+</div>
